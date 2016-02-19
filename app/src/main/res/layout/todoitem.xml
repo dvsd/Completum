@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFF"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <TextView android:id="@+id/toDoText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to the super market"
+        android:textSize="18dp"
+        android:textColor="@android:color/primary_text_light"
+        android:paddingTop="15dp" />
+
+    <TextView android:id="@+id/dateText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jan 19, 2016"
+        android:textSize="14dp"
+        android:textColor="@android:color/secondary_text_light"
+        android:paddingBottom="15dp"
+        android:layout_below="@+id/toDoText" />
+
+</RelativeLayout>
