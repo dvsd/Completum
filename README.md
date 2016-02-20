@@ -5,4 +5,4 @@ I released all of the code for this app to give guidance and assistance to indiv
 <img src = "Custom.Preset.png" alt="Ad" height="300" width=600"/>
 <br/>
 <img src = "mainscreen-delete.png" alt="Completum" height="550" width="320"/>
-<img src = "task-nodelete.png" alt="Task" height="450" width="240"/>
+<img src = "task-nodelete.png" alt="Task" height="550" width="320"/>
